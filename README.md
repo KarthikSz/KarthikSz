@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Karthik, currently pursuing my junior year in undergrad at NIT Trichy. My interests include web development and Data Science.
+I'm Karthik, currently pursuing my senior year in undergrad at NIT Trichy. My interests include web development and Data Science.
 
 Check out my resume @http://bit.ly/KS-resume
 
