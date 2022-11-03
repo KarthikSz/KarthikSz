@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm Karthik, currently pursuing my senior year in undergrad at NIT Trichy. My interests include web development and Data Science.
-
-Check out my resume @http://bit.ly/KS-resume
+I'm Karthik, currently working as a Quantitative analyst at Goldman Sachs. My interests include machine learning, financial modeling and software development.
 
 <!--
 **KarthikSz/KarthikSz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
