@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Karthik, an incoming MS CS student for Fall '23 at UMass Amherst. Previously, I worked as a Quant at Goldman Sachs for 2 years.
+I'm Karthik, an MS CS student at UMass Amherst. Previously, I worked as a Quant at Goldman Sachs for 2 years.
 
 <!--
 **KarthikSz/KarthikSz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
