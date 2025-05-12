@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Karthik, an MS CS student at UMass Amherst. Previously, I worked as a Quant at Goldman Sachs for 2 years.
+I am Karthik, a software engineer with a passion for building scalable applications and exploring new technologies. I will be graduating in May '25 with a Masters degree in Computer Science from UMass Amherst. I interned at Juniper Networks in the Summer of '24 as a Software Engineer, and I had a 2 year stint as a Quant at Goldman Sachs India previously.
 
 <!--
 **KarthikSz/KarthikSz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
